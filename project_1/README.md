@@ -25,3 +25,8 @@ g++ -std=c++17 main.cpp -o arg_test
 1. 学会从命令行获取参数
 2. 加深了对迭代器的使用
 3. 没有使用命名空间
+
+### Feeling
+
+1. 学会从命令行获取参数（Learn to get parameters from the command line）
+2. 加深了对迭代器的理解（Deepen understanding of iterators）

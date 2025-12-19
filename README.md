@@ -10,7 +10,9 @@
 
 简单版命令行解析器
 
-### Feeling
 
-1. 学会从命令行获取参数（Learn to get parameters from the command line）
-2. 加深了对迭代器的理解（Deepen understanding of iterators）
+
+## Calculator
+
+简单版模拟卡西欧计算器
+
